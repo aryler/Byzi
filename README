@@ -1,0 +1,12 @@
+What:	Byzi 0.2
+Where:	https://github.com/aryler/Byzi
+Who:	Stuart Cassoff <stwo@users.sourceforge.net>
+When:	Spring 2017
+
+Confine pointer and keyboard events to a window sub-tree.
+
+The Byzi extension for Tk provides a simple means to
+block keyboard, button and pointer events from Tk widgets, while
+overriding the widget's cursor with a configurable busy cursor.
+
+The Byzi extension is based on the Tk 8.6.6 busy command sources.

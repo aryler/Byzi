@@ -1,0 +1,1 @@
+`dirname \`dirname $0\``/configure --with-tcl=/usr/local/lib/tcl/tcl${TCL} --with-tk=/usr/local/lib/tcl/tk${TCL}
