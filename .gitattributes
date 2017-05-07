@@ -1,1 +1,2 @@
-*.m4 linguist-vendored
+*   linguist-vendored
+*.c linguist-vendored=false
